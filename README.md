@@ -1,5 +1,4 @@
 # HTML
-Códigos feito na aula de Front-End
 
 <!doctype html>
 <html lang="en">
